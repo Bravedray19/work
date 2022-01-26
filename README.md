@@ -1,3 +1,4 @@
-# work
-I  am beginner and I need a collabration.
-I am also in need of a good teacher 
+git branch -m main hacking
+git fetch origin
+git branch -u origin/hacking hacking
+git remote set-head origin -a
